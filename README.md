@@ -19,6 +19,7 @@ This repository contains my journey, solutions, and insights from **Harvard's CS
 - 🏅 **Top teams** receive official **CS50 certificates from Harvard**  
 
 ---
+🔗 **Group Discussion** [Check here](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)  
 
 ## 📂 **Repository Structure**  
 
