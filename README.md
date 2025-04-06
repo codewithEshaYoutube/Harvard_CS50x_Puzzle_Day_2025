@@ -31,5 +31,35 @@ This repository captures my journey, solutions, and key takeaways from **CS50x P
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 🧠 Key Learnings & Takeaways
+
+1️⃣ **Teamwork** – True collaboration brings out the best solutions  
+2️⃣ **Diverse Perspectives** – Ideas from across cultures spark innovation  
+3️⃣ **Critical Thinking** – These puzzles stretch your mind  
+4️⃣ **Innovation** – Every challenge is a sandbox for creative strategies  
+5️⃣ **Networking** – Meeting global thinkers is a win itself  
+6️⃣ **Growth** – Resilience, patience, and joy in the process
+
+---
+
+## 🧩 Puzzle Spotlight: Tangram 🟦🔺🔲
+
+We held a focused team discussion on the **Tangram Puzzle** on **April 5, 2025 at 7:00 PM**.  
+It was an incredible session for sharpening spatial reasoning and team synergy!
+
+---
+
+## 🔗 Featured On LinkedIn
+
+📣 [Check out the official LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:activity:7314299663879221248/)  
+📢 [Alternate Link to Post](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h)
+
+---
+
+## 💥 CS50x Puzzle Day 2025  
+**The Ultimate Global Challenge in Logic, Fun, and Friendship!** 🌍🧠🎉
+
+
 
