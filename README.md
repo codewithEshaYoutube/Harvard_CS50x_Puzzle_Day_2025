@@ -1,4 +1,4 @@
-# 🧩 CS50x PUZZLE DAY 2025 – HARVARD UNIVERSITY
+ # 🧩 CS50x PUZZLE DAY 2025 – HARVARD UNIVERSITY
 
 ## 🚀 My Participation in **Harvard's CS50x Puzzle Day 2025**
 
