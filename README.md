@@ -1,4 +1,4 @@
- # 🧩 CS50x PUZZLE DAY 2025 – HARVARD UNIVERSITY
+# 🧩 CS50x PUZZLE DAY 2025 – HARVARD UNIVERSITY
 
 ## 🚀 My Participation in **Harvard's CS50x Puzzle Day 2025**
 
@@ -31,6 +31,12 @@ This repository captures my journey, solutions, and key takeaways from **CS50x P
 
 ---
 
+## 📜 Certificate of Participation
+
+![CS50x Puzzle Day 2025 Certificate](CS50x%20Puzzle%20Day%202025.png)
+
+🔗 **[View Full Certificate (PDF)](https://certificates.cs50.io/929be942-8f17-40a3-b560-12c8c2c0b18a.pdf?size=letter)**
+
 ---
 
 ## 🧠 Key Learnings & Takeaways
@@ -60,6 +66,3 @@ It was an incredible session for sharpening spatial reasoning and team synergy!
 
 ## 💥 CS50x Puzzle Day 2025  
 **The Ultimate Global Challenge in Logic, Fun, and Friendship!** 🌍🧠🎉
-
-
-
