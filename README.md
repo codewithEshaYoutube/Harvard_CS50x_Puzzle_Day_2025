@@ -57,6 +57,17 @@ It was an incredible session for sharpening spatial reasoning and team synergy!
 
 ---
 
+## 💪 We Won! We Solved 9/9 Puzzles!
+
+Our team successfully solved all 9 puzzles in the **CS50x Puzzle Day 2025** event! It was a great learning experience, and we collaborated seamlessly to find creative solutions. The intense teamwork and grind were rewarding, and each puzzle was an opportunity to push ourselves further. Here's a glimpse of our collaboration journey.
+
+## 🖼️ Glimpse of Our Teamwork
+
+<p align="center">
+  <img src="Screenshot (518).png" alt="Screenshot" width="500"/>
+</p>
+---
+
 ## 🔗 Featured On LinkedIn
 
 📣 [Check out the official LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:activity:7314299663879221248/)  
